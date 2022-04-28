@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irfancoder
 - 👀 A fulltime software developer based in Malaysia! 
-- 🌱 Big fan of JS & TypeScript, creator of Mon UI libraries
+- 🌱 Big fan of JS & TypeScript, creator of Mon UI library
 - 📫 You can connect with me on LinkedIn or by email at irfan.ismail96@gmail.com
 
 <!---
